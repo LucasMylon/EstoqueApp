@@ -1,0 +1,6 @@
+@EstoqueApp_HostAddress = http://localhost:5207
+
+GET {{EstoqueApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
